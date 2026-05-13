@@ -7,19 +7,21 @@ This project aims to predict the likelihood of financial bankruptcy using machin
 The model is evaluated using performance metrics such as accuracy, precision, recall, and confusion matrix. The final model is saved as a .pkl file and integrated into a Streamlit web application for real-time prediction and decision support.
 
 🚀 Key Features:
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Feature importance analysis
-Model training and evaluation
-Streamlit-based deployment
+
+Data cleaning and preprocessing, 
+Exploratory Data Analysis (EDA), 
+Feature importance analysis, 
+Model training and evaluation, 
+Streamlit-based deployment .
 
 🛠 Tech Stack:
-Python
-Pandas, NumPy
-Machine Learning
-Scikit-learn
-Matplotlib, Seaborn
-Streamlit
+
+Python, 
+Pandas, NumPy, 
+Machine Learning, 
+Scikit-learn, 
+Matplotlib, Seaborn, 
+Streamlit .
 
 📌 Objective:
 
