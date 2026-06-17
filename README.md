@@ -1,6 +1,6 @@
-# BANKRUPTCY-PREVENTION-PROJECT
+# Bankruptcy Risk Prediction System
 
-🔍 Bankruptcy Prevention Project
+🔍 Bankruptcy Risk Prediction System
 
 This project aims to predict the likelihood of financial bankruptcy using machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, and model building using classification algorithms. Key financial indicators are analyzed to identify risk patterns and improve prediction accuracy.
 
